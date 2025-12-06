@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mardem Humberto
 
-Brazil-based Senior Data Analyst | Control & Automation Engineer (Poli USP Top 100 Global) | Remote-first (US & Europe) | Data, Decision-Making, Music & Travel Enthusiast
+Brazil-based Analytics Engineering | Senior Data Analyst | Control & Automation Engineer (Poli USP Top 100 Global) | Remote-first (US & Europe) | Data, Decision-Making, Music & Travel Enthusiast
 
 ---
 
@@ -26,7 +26,7 @@ SQL · Python · Excel · Google Sheets · Looker · Power BI · Tableau · Data
 Databricks · Google Cloud · AWS (basic) · GitHub · Jira · Confluence  
 
 **Analytics Engineer**  
-DBT · Snowflake  · Git
+DBT · Snowflake  · Git · Airflow
 
 **Programming & Data:**  
 Python (Pandas, PySpark, Automation)  
