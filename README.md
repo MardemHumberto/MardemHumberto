@@ -6,13 +6,13 @@ Brazil-based Senior Data Analyst | Control & Automation Engineer (Poli USP Top 1
 
 ### 💼 About Me
 
-I'm a Senior Data Analyst passionate about turning messy data into practical solutions.  
+I'm a Senior Data Analyst & Analytics Engineer passionate about turning messy data into practical solutions.  
 Here I share personal projects and some of the tools and automations I build to solve real problems from my day-to-day work.
 
 I'm a Control & Automation Engineer by background — graduated from the Polytechnic School of the University of São Paulo (Poli USP), ranked among the top 100 universities worldwide.  
-My career has taken me through global companies like PepsiCo, Mondelēz International, and QuintoAndar (Top 25 Startups globally), where I work on data, automation, analytics, and decision-making challenges.
+My career has taken me through global companies like PepsiCo, Mondelēz International, and QuintoAndar (Brazil’s largest proptech unicorn (US $5.1B valuation) and one of the biggest in the Americas, with over R$20B in annual real-estate transaction volume.), where I work on data, automation, analytics Engineer, and decision-making challenges.
 
-Although based in Brazil, remote work has always been part of my journey — I’ve supported the Caribbean market in the past and in 2025 I’ll be heading to Europe as a digital nomad.
+Although based in Brazil, remote work has always been part of my journey — I’ve supported the Caribbean market in the past and in 2025 I’ll be heading to Europe as a digital nomad (Update: adventure completed — 15 countries, 24 cities, 5 time zones, and a solid quarter of 2025 living out of a backpack).
 Outside of work, I'm a music and travel enthusiast — a drummer since as far back as I can remember — and someone who has visited many countries. I love multicultural environments and cosmopolitan cities, and I'm open to remote freelance opportunities with companies in the US and Europe.
 
 ---
@@ -24,6 +24,9 @@ SQL · Python · Excel · Google Sheets · Looker · Power BI · Tableau · Data
 
 **Platforms & Tools:**  
 Databricks · Google Cloud · AWS (basic) · GitHub · Jira · Confluence  
+
+**Analytics Engineer**  
+DBT · Snowflake  · Git
 
 **Programming & Data:**  
 Python (Pandas, PySpark, Automation)  
